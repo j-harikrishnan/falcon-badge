@@ -1,4 +1,5 @@
 # Falcon-Badge
+![image](final_look.png)
 
 **Work in progress.**
 **Check the OTA branch**
@@ -122,6 +123,8 @@ FLAG : falcon{y0u_3xtr4ct3d_th3_s3ctr3t_d4t4}
 * [x] Add Source Code
 * [x] Add OTA and MQTT Code (Check the OTA branch)
 * [x] Add Write-Ups
+
+![image](PCB_board.png)
 
 ### Credits
 
