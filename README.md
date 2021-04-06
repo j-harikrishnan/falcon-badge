@@ -3,7 +3,7 @@
 ![image](final_look.png)
 
 **Work in progress.**
-![link]:https://blog.bi0s.in/2020/01/21/Hardware/millenium_falcon/
+
 **Check the OTA folder for updated beta features**
 
 ## Layout
@@ -120,6 +120,7 @@ Once you login, you will get an option to read data from the board. You only hav
 FLAG : falcon{y0u_3xtr4ct3d_th3_s3ctr3t_d4t4}
 </details>
 
+Read More:https://blog.bi0s.in/2020/01/21/Hardware/millenium_falcon/
 
 ![image](PCB_design.png)
 
